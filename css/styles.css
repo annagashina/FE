@@ -1,0 +1,22 @@
+.bodyclass {
+	background-color: #ffffaa;
+	color: grey;
+	font-size: 20px;
+}
+
+h1 {
+	background-color: yellow;
+	padding: 10px;
+	margin: 10px 0 40px 0;
+	color: green;
+	font-size: 3em;
+}
+.redlink {
+	color: red;
+	text-decoration: none;
+}
+
+.redlink:hover{
+	text-decoration: underline;
+	background-color: violet;
+}
