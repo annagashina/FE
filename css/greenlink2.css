@@ -1,0 +1,10 @@
+.greenlink {
+    color: green;
+    text-decoration: none;
+}
+
+.greenlink:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}  
+
