@@ -40,6 +40,7 @@ h1 {
 	height: 400px;
 	width: 300px;
 	position: relative;
+	border-radius: 15px;
 }
 
 .parent2 .child{
@@ -57,9 +58,8 @@ h1 {
 .parent2 .child2{
 	background-color: yellow;
 	position: absolute;
-	top: 20px;
-	right: 20px;
-	left:auto
+	top: 100px;
+	left:80px;
 }
 
 .parent2 .child3{
@@ -73,8 +73,8 @@ h1 {
 .parent2 .child4{
 	background-color: grey;
 	position: absolute;
-	bottom: 20px;
-	left: 20px;
+	bottom: 100px;
+	left: 200px;
 
 }
 
